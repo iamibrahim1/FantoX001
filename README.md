@@ -55,14 +55,10 @@
 <br>
 <br>
 
-<h2 align="center"> Running and improvig myself day by day...
+<h2 align="center"> My Contribution Snake
 </h2>
 
-<p align="center">
-   <a href="https://github.com/FantoX001">
-    <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dino_rounded.gif" width="800"> </a>
-    </p>
-<br>
+![contribution](https://github.com/FantoX001/FantoX001/blob/output/github-contribution-grid-snake.svg)
 
 # My Popular Repositories:
 
