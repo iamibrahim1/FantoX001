@@ -55,7 +55,7 @@
 <br>
 <br>
 
-<h2 align="center"> My Contribution Snake
+<h2 align="center"> My Contribution
 </h2>
 
 ![contribution](https://github.com/FantoX001/FantoX001/blob/output/github-contribution-grid-snake.svg)
