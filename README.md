@@ -15,28 +15,50 @@
 
 
 
-# My about:
-- 🔭 I’m currently a student.
-- 🌱 I’m currently learning AI and Machine Learning for my own interest. 
-- 🤔 I'm intesested in both procedural languages(C, Bash) and object oriented language(Java, Python).
-- ⚡ My current ongoing projects are: Whatsapp Bot, Voice assistant and AI Chatbot.
-- ⚡ Currently working on Eternity Bot with [Eternity-Bots](https://github.com/Eternity-Bots)
+About Me:
+-  I’m currently a final year Computer Science and Engineering student.
+-  Tying my best to join an Organization soon and increase my skill set while working in IT industery.
+-  I am passionate about making open source projects that people would link to use.
+
 
 <br>
 <br>
 
-# My Recent Project:
-- [Miku Bot (Multi Device)](https://github.com/FantoX001/Miku-MD)
+# My Projects
+
+### Recent Project:
+
+- [Miku Nakano Beta (Multi Device WhatsApp bot)](https://github.com/FantoX001/Miku-MD)
 <p align="left">
-   <a href="https://github.com/FantoX001/Miku-MD">
-    <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="300">  
+   <a href="https://github.com/FantoX001/Miku-MD"> 
 </p>
 
-<h3 align="left"> Miku Nakano (Multi Device) WhatsApp Bot.
-</h3>
-<br><br><br>
+   
+ ### Ongoing Project:
+- Miku Nakano Full Version (Coming Soon)
+   
+   
+ ### Popular Projects:
 
-# My Github Status:
+-   [Miku Bot MD](https://github.com/FantoX001/Miku-MD)
+
+-   [Shikimori Bot](https://github.com/FantoX001/Shikimori)
+
+-   [Zero Two WhatsApp Bot](https://github.com/FantoX001/Zero-Two)
+
+-   [Student Database System built with Angular](https://github.com/FantoX001/Aredent-Student-Database-System)
+
+-   [Akeno WhatsApp Bot](https://github.com/FantoX001/Akeno-Whatsapp-Bot) 
+
+-   [Akeno WhatsApp Bot [ V-2.0 ]](https://github.com/FantoX001/Akeno)
+
+-   [Password Generator](https://github.com/FantoX001/Password-Generator)
+<br>
+<br>
+<br>
+
+
+## My Github Status:
 
 <br>
 
@@ -55,29 +77,9 @@
 <br>
 <br>
 
-<h2 align="center"> My Contribution
-</h2>
+   
 
-![contribution](https://github.com/FantoX001/FantoX001/blob/output/github-contribution-grid-snake.svg)
 
-# My Popular Repositories:
-
--   [Miku Bot MD](https://github.com/FantoX001/Miku-MD)
-
--   [Shikimori Bot](https://github.com/FantoX001/Shikimori)
-
--   [Zero Two WhatsApp Bot](https://github.com/FantoX001/Zero-Two)
-
--   [Student Database System built with Angular](https://github.com/FantoX001/Aredent-Student-Database-System)
-
--   [Akeno WhatsApp Bot](https://github.com/FantoX001/Akeno-Whatsapp-Bot) 
-
--   [Akeno WhatsApp Bot [ V-2.0 ]](https://github.com/FantoX001/Akeno)
-
--   [Password Generator](https://github.com/FantoX001/Password-Generator)
-<br>
-<br>
-<br>
 
 
 # 📫 How to reach me:
