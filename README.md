@@ -44,8 +44,8 @@
 
    
  ### Ongoing Project:
-- Miku Nakano Full Version (Coming Soon)
-- Free to use APIs for Bots and websites.
+- Miku Nakano Full Version (Coming Soon).
+- Free to use APIs for Bots and websites (Coming Soon).
    
    
  ### Popular Projects:
