@@ -37,15 +37,17 @@
 
 ### Recent Project:
 
+- [Atlas WhatsApp Bot](https://github.com/FantoX001/Atlas-MD)
+<p align="left">
+   <a href="https://github.com/FantoX001/Miku-MD"> 
+</p>
+
 - [Miku Nakano Beta (Multi Device WhatsApp bot)](https://github.com/FantoX001/Miku-MD)
 <p align="left">
    <a href="https://github.com/FantoX001/Miku-MD"> 
 </p>
 
-   
- ### Ongoing Project:
-- Miku Nakano Full Version (Coming Soon).
-- Free to use APIs for Bots and websites (Coming Soon).
+
    
    
  ### Popular Projects:
