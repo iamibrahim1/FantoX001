@@ -42,7 +42,7 @@
    <a href="https://github.com/FantoX001/Miku-MD"> 
 </p>
 
-- [Miku Nakano Beta (Multi Device WhatsApp bot)](https://github.com/FantoX001/Miku-MD)
+- [Miku WhatsApp Bot](https://github.com/FantoX001/Miku-MD)
 <p align="left">
    <a href="https://github.com/FantoX001/Miku-MD"> 
 </p>
