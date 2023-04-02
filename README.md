@@ -6,7 +6,7 @@
 
 <div align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=fc7b03&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Fantox;Welcome+to+my+GitHub"
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=fc7b03&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Fantox;Also+known+as+Shubha;Welcome+to+my+GitHub"
             alt="Typing SVG"
         />
     </a>
@@ -34,6 +34,12 @@
 
 
 # My Projects
+
+### API:
+- [Scrappy API](https://github.com/FantoX001/Scrappy-API)
+
+### Npm Package:
+- [@fantox01/lyrics-scraper](https://github.com/FantoX001/lyrics-scraper)
 
 ### Recent Project:
 
