@@ -6,7 +6,7 @@
 
 <div align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=FC0150&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Shubha;Also+known+as+FantoX;Welcome+to+my+GitHub;Thanks+for+looking+for+me;I'm+a+lost+soul."
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=FC3601&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Shubha;Also+known+as+FantoX;Welcome+to+my+GitHub;Thanks+for+looking+for+me;I'm+a+lost+soul."
             alt="Typing SVG" width="580px"
         />
     </a>
