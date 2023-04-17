@@ -19,7 +19,7 @@
 -  A passionate Full Stack developer from India.
 -  Currently a final year Computer Science and Engineering student.
 -  Trying my best to join an Organization soon and increase my skill set while working in IT industery.
--  Passionate about making open source projects that people would link to use.
+-  Passionate about making open source projects that people would like to use.
 
 
 <br>
